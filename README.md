@@ -5,10 +5,6 @@
     AMXI
 <p align="center">  
 <img src="https://github.com/amxiW">
-</p>
-    <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/358310460187082763.png](https://cdn.discordapp.com/attachments/938326464443580431/1015647604488540221/unknown.png"/>
-</p>
 <p align="center">
 python, lua, javascript soon
 <p align="center">
